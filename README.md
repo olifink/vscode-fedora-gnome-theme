@@ -3,7 +3,7 @@
 # Fedora GNOME light & dark themes
 ## Light and dark themes to match Fedora system themes
 
-I couldn't find what I was looking for, so here are Two themesets with light and dark versions each to match the look of the Fedora GNOME _Adwaita_ and _Adwaita-dark_ GTK system theme colors to make Visual Studio Code better fit into these Linux systems. 
+I couldn't find what I was looking for, so here are two theme sets with light and dark versions each to match the look of the Fedora GNOME _Adwaita_ and _Adwaita-dark_ GTK system theme colors to make Visual Studio Code better fit into these Linux systems. 
 
 ## Themes
 
