@@ -29,5 +29,11 @@
                 "path": "./themes/adwaita-atom-light-color-theme.json"
             }
         ]
-    }
+    },
+    "license": "MIT - see LICENSE file",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/olifink/vscode-fedora-gnome-theme.git"
+    },
+    "homepage": "https://github.com/olifink/vscode-fedora-gnome-theme#readme"
 }
