@@ -18,20 +18,19 @@ Syntax highlighting is based on the popular [GitHub Theme](https://marketplace.v
 
 
 ### Theme 1 - Gnome Light (Atom One) 
-
-![alt](screenshots/gnome-atom-light.resized.png)
+![alt](https://raw.githubusercontent.com/olifink/vscode-fedora-gnome-theme/main/screenshots/gnome-atom-light.resized.png)
 
 ### Theme 2 - Gnome Dark (Atom One) 
 
-![alt](screenshots/gnome-atom-dark.resized.png)
+![alt](https://raw.githubusercontent.com/olifink/vscode-fedora-gnome-theme/main/screenshots/gnome-atom-dark.resized.png)
 
 ### Theme 3 - Gnome Light (GitHub) 
 
-![alt](screenshots/gnome-gh-light.resized.png)
+![alt](https://raw.githubusercontent.com/olifink/vscode-fedora-gnome-theme/main/screenshots/gnome-gh-light.resized.png)
 
 ### Theme 4 - Gnome Dark (GitHub) 
 
-![alt](screenshots/gnome-gh-dark.resized.png)
+![alt](https://raw.githubusercontent.com/olifink/vscode-fedora-gnome-theme/main/screenshots/gnome-gh-dark.resized.png)
 
 
 **Enjoy!**
