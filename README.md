@@ -1,13 +1,38 @@
-# README
-## This is the README for your extension "fedora-gnome-light-dark"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+# Fedora GNOME light & dark themes
+## Light and dark themes to match Fedora system themes
+
+I couldn't find what I was looking for, so here are Two themesets with light and dark versions each to match the look of the Fedora GNOME _Adwaita_ and _Adwaita-dark_ GTK system theme colors to make Visual Studio Code better fit into these Linux systems. 
+
+## Themes
+
+The four contributed themes in this package are:
+
+* `Gnome Light (Atom One)`
+* `Gnome Dark (Atom One)`
+* `Gnome Light (GitHub)`
+* `Gnome Dark (GitHub)`
+
+Syntax highlighting is based on the popular [GitHub Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme) as well as Mahmoud Alis [Atom One Light](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onelight) and [Atom One Dark](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark). All credit for that goes to them.
+
+
+### Theme 1 - Gnome Light (Atom One) 
+
+![alt](screenshots/gnome-atom-light.resized.png)
+
+### Theme 2 - Gnome Dark (Atom One) 
+
+![alt](screenshots/gnome-atom-dark.resized.png)
+
+### Theme 3 - Gnome Light (GitHub) 
+
+![alt](screenshots/gnome-gh-light.resized.png)
+
+### Theme 4 - Gnome Dark (GitHub) 
+
+![alt](screenshots/gnome-gh-dark.resized.png)
+
 
 **Enjoy!**
+

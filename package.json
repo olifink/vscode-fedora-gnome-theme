@@ -12,22 +12,6 @@
     "contributes": {
         "themes": [
             {
-                "label": "Gnome Light (Atom One)",
-                "uiTheme": "vs",
-                "path": "./themes/adwaita-atom-light-color-theme.json"
-            },
-            {
-                "label": "Gnome Dark (Atom One)",
-                "uiTheme": "vs-dark",
-                "path": "./themes/adwaita-atom-dark-color-theme.json"
-            },
-            {
-                "label": "Gnome Light (GitHub)",
-                "uiTheme": "vs",
-                "path": "./themes/adwaita-gh-light-color-theme.json"
-            },
-            {
-                "label": "Gnome Dark (GitHub)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/adwaita-gh-dark-color-theme.json"
             }
