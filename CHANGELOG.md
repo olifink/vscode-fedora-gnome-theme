@@ -5,6 +5,9 @@ All notable changes to the "fedora-gnome-light-dark" extension will be documente
 
 ## [Unreleased]
 
+## 0.0.3
+- added an icon
+
 ## 0.0.2
 - fixed names in final package
 

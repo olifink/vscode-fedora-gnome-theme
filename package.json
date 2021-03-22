@@ -2,7 +2,7 @@
     "name": "fedora-gnome-light-dark",
     "displayName": "Fedora GNOME light & dark themes",
     "description": "Light and dark themes to match GNOME Adwaita and Adwaita-dark themes - based on GitHub and Atom One themes.",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "olifink",
     "engines": {
         "vscode": "^1.54.0"
@@ -10,6 +10,11 @@
     "categories": [
         "Themes"
     ],
+    "icon": "images/gnome-icon.png",
+    "galleryBanner": {
+      "color": "#1e1e1e",
+      "theme": "dark"
+    },
     "contributes": {
         "themes": [
             {
