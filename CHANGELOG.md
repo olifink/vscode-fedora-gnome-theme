@@ -5,6 +5,9 @@ All notable changes to the "fedora-gnome-light-dark" extension will be documente
 
 ## [Unreleased]
 
+## 0.0.4
+- colors adjusted for custom style title bar and menus
+
 ## 0.0.3
 - added an icon
 
